@@ -58,7 +58,7 @@ The dataset includes patient medical records with clinical and biochemical attri
 ---
 
 ## 📊 Results
-- Achieved **XX% accuracy** with the best-performing model.
+- Achieved **85% accuracy** with the best-performing model.
 - Identified top predictive features such as *bilirubin*, *albumin*, and *platelet count*.
 - ROC-AUC curve demonstrates strong classification performance.
 
